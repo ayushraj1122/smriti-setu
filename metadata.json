@@ -1,0 +1,6 @@
+{
+  "name": "Smriti Setu",
+  "description": "Multilingual cognitive games, daily routine management, and caregiver dementia decline monitoring platform for North East India",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
